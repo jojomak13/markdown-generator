@@ -2,7 +2,7 @@
   "name": "markdown-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jojomak13.github.io/markdown-generator",
+  "homepage": "http://joseph-makram.github.io/markdown-generator",
   "dependencies": {
     "marked": "^0.7.0",
     "react": "^16.9.0",
